@@ -1,4 +1,4 @@
-Let's break down **LeetCode #1 - Two Sum** in **C++**, with **three levels** of optimization, **each passing all test cases**, along with **clear explanations**.
+Let's break down **LeetCode #1 - Two Sum** in **C++**, **Java**, **Python3**, **C**, **C#**, **JavaScript**, **TypeScrip**, **PHP**, **Swift**, **Kotlin**, **Dart**, **Go**, **Ruby**, **Scala**, **Rust**, **Racket**, **Erlang**, **Elixir** with **three levels** of optimization, **each passing all test cases**, along with **clear explanations**.
 
 ---
 
