@@ -21,7 +21,7 @@ Thanks for being awesome! 💥
 
 Let me know your Amazon link and I can plug it into the `Leave a ⭐⭐⭐⭐⭐ Review` button for you!
 
-
+Let's break down **LeetCode #Any problem** in **C++**, **Java**, **Python3**, **C**, **C#**, **JavaScript**, **TypeScrip**, **PHP**, **Swift**, **Kotlin**, **Dart**, **Go**, **Ruby**, **Scala**, **Rust**, **Racket**, **Erlang**, **Elixir** with **three levels** of optimization, **each passing all test cases**, along with **clear explanations**.
 
 # 🧠 DSA Practice Workbook – 120+ Problems with Solutions
 
@@ -31,7 +31,7 @@ This repo contains a carefully curated collection of coding problems, solutions,
 ## 📘 What's Inside
 
 - ✅ 120+ handpicked DSA problems
-- 🧩 Solutions in Python (Java/C++ optional)
+- 🧩 Solutions in mpre then 20+ languages
 - ⏱️ Time & Space Complexity analysis
 - 📝 Personal notes and explanations
 - 🔁 Practice trackers for consistency
@@ -75,3 +75,4 @@ This repo contains a carefully curated collection of coding problems, solutions,
 
 🎯 Whether you're prepping for a job interview or reinforcing your knowledge, this repo is your personal DSA companion. Happy coding!
 
+### you can share these book with your class mates and friends who tring to learn and improve there problem solving skills. 

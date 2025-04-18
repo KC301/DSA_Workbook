@@ -1,6 +1,6 @@
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int n = nums.length;
+public class Solution {
+    public int[] TwoSum(int[] nums, int target) {
+        int n = nums.Length;
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 if (nums[i] + nums[j] == target) {
@@ -8,6 +8,6 @@ class Solution {
                 }
             }
         }
-        return new int[] {}; // Not reached due to problem guarantees
+        return new int[] { };
     }
 }

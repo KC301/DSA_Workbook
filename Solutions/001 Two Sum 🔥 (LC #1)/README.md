@@ -156,6 +156,7 @@ public:
 | 3     | Hash Map             | O(n)      | O(n)  | Best and most elegant      |
 
 ---
+
 Let's now solve **Two Sum (LC #1)** in **Java**, with the three levels approach:
 
 ---
@@ -1472,7 +1473,7 @@ end
 
 ### 🔍 Approach:
 Use a hash map to track complements and indices.
-### Ruby
+### Ruby (Level #3)
 ```ruby
 def two_sum(nums, target)
   seen = {}
