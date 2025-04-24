@@ -1,26 +1,29 @@
 🔍 Google – 20 DSA Questions
 
-1. Word Break
-2. Course Schedule II
-3. Design Search Autocomplete System
-4. Sudoku Solver
-5. Reconstruct Itinerary
-6. Pacific Atlantic Water Flow
-7. Dijkstra’s Algorithm
-8. Burst Balloons
-9. Serialize and Deserialize N-ary Tree
-10. Jump Game
-11. Trapping Rain Water
-12. Find Duplicate Subtrees
-13. Median of Two Sorted Arrays
-14. Search in Rotated Sorted Array
-15. Critical Connections in a Network
-16. Palindrome Partitioning
-17. Count Connected Components in an Undirected Graph
-18. Paint House
-19. Knight Probability in Chessboard
-20. Google Interview Word Ladder II
+Here are the LeetCode links for the new list of problems:
 
+1. [Word Break](https://leetcode.com/problems/word-break/)
+2. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+3. [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)
+4. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+5. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+6. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+7. [Dijkstra’s Algorithm](https://leetcode.com/problems/network-delay-time/) *(Note: Dijkstra's algorithm is generally used for shortest path problems; this is a related problem)*
+8. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+9. [Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)
+10. [Jump Game](https://leetcode.com/problems/jump-game/)
+11. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+12. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+13. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+14. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+15. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+16. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+17. [Count Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+18. [Paint House](https://leetcode.com/problems/paint-house/)
+19. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+20. [Google Interview Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+
+------------------------------------------------------------------------------------------
 
 1. Word Break
 ---

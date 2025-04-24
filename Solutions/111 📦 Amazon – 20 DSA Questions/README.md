@@ -1,25 +1,27 @@
 
 📦 Amazon – 20 DSA Questions
-1. Two Sum
-2. Group Anagrams
-3. Top K Frequent Elements
-4. Longest Substring Without Repeating Characters
-5. Subarray Sum Equals K
-6. Trapping Rain Water
-7. Kth Largest Element in an Array
-8. Valid Parentheses
-9. Word Ladder
-10. Maximum Subarray
-11. Sliding Window Maximum
-12. Longest Common Prefix
-13. Merge Intervals
-14. Reorganize String
-15. Product of Array Except Self
-16. Number of Islands
-17. LRU Cache
-18. Search in Rotated Sorted Array
-19. Palindromic Substrings
-20. Decode Ways
+
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+4. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+5. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+6. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+7. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+8. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+9. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+10. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+11. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+12. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+13. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+14. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+15. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+16. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+17. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+18. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+19. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+20. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+
 
 ---
 1. Two Sum
